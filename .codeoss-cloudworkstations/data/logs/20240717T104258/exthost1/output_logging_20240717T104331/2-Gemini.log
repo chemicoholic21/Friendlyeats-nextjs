@@ -1,0 +1,6 @@
+2024-07-17T10:43:38.978Z [INFO]   do_not_track_region: false
+2024-07-17T10:43:39.152Z [INFO]   early_access_commands_enabled: true
+2024-07-17T10:43:39.152Z [INFO]   document_code_actions_enabled: false
+2024-07-17T10:43:39.152Z [INFO]   add_unit_test_actions_enabled: false
+2024-07-17T10:43:39.152Z [INFO]   loading ai prompts from /opt/code-oss/extensions/monospace-aida/ai/prompts
+2024-07-17T10:43:39.316Z [INFO]   loading ai prompts from /home/user/Friendlyeats-nextjs/.idx/ai/prompts

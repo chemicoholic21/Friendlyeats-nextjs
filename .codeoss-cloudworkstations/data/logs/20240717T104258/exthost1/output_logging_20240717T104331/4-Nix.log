@@ -1,0 +1,47 @@
+I[10:44:00.873] 173: <-- initialize(0)
+I[10:44:00.876] 173: --> reply:initialize(0)
+I[10:44:00.880] 173: --> call window/workDoneProgress/create(1)
+I[10:44:00.880] 173: --> notify $/progress
+I[10:44:00.880] 173: --> call attrset/evalExpr(1)
+I[10:44:00.882] 173: --> call window/workDoneProgress/create(2)
+I[10:44:00.882] 173: --> notify $/progress
+I[10:44:00.882] 173: --> call attrset/evalExpr(1)
+I[10:44:00.882] 173: --> call workspace/configuration(3)
+I[10:44:00.887] 173: <-- initialized
+I[10:44:00.897] 173: <-- textDocument/didOpen
+I[10:44:00.901] 173: --> notify textDocument/publishDiagnostics
+I[10:44:00.901] 173: <-- reply(1)
+I[10:44:00.901] 173: <-- reply(2)
+I[10:44:00.902] 173: <-- reply(3)
+I[10:44:00.904] 173: --> call window/workDoneProgress/create(4)
+I[10:44:00.904] 173: --> notify $/progress
+I[10:44:00.904] 173: --> call attrset/evalExpr(1)
+I[10:44:00.904] 173: --> call window/workDoneProgress/create(5)
+I[10:44:00.904] 173: --> notify $/progress
+I[10:44:00.904] 173: --> call attrset/evalExpr(2)
+I[10:44:00.904] 173: --> notify textDocument/publishDiagnostics
+I[10:44:00.919] 173: <-- reply(4)
+I[10:44:00.920] 173: <-- reply(5)
+I[10:44:01.049] 173: <-- textDocument/documentSymbol(1)
+I[10:44:01.052] 173: --> reply:textDocument/documentSymbol(1)
+I[10:44:01.056] 173: <-- textDocument/documentLink(2)
+I[10:44:01.056] 173: --> reply:textDocument/documentLink(2)
+I[10:44:01.056] 173: <-- textDocument/inlayHint(3)
+I[10:44:01.057] 173: --> reply:textDocument/inlayHint(3)
+I[10:44:01.057] 173: <-- textDocument/codeAction(4)
+I[10:44:01.057] 173: --> reply:textDocument/codeAction(4)
+I[10:44:01.321] 173: <-- textDocument/codeAction(5)
+I[10:44:01.321] 173: --> reply:textDocument/codeAction(5)
+I[10:44:01.334] 173: <-- textDocument/documentSymbol(6)
+I[10:44:01.337] 173: --> reply:textDocument/documentSymbol(6)
+I[10:44:01.485] 173: <-- textDocument/semanticTokens/full(7)
+I[10:44:01.485] 173: --> reply:textDocument/semanticTokens/full(7)
+I[10:44:02.226] 173: <-- reply(1)
+I[10:44:02.226] 173: --> notify $/progress
+I[10:44:02.276] 173: <-- reply(1)
+I[10:44:02.276] 173: --> notify $/progress
+I[10:44:04.655] 173: <-- reply(1)
+I[10:44:04.655] 173: --> notify $/progress
+I[10:44:04.655] 173: <-- reply(2)
+I[10:44:04.655] 173: --> notify $/progress
+I[10:44:40.994] 173: <-- textDocument/didClose

@@ -1,0 +1,12 @@
+2024-07-17 10:42:58.352 [info] 
+
+
+
+
+2024-07-17 10:42:58.352 [info] Extension host agent started.
+2024-07-17 10:42:58.352 [info] Started initializing default profile extensions in extensions installation folder. file:///home/user/.codeoss-cloudworkstations/extensions
+2024-07-17 10:42:58.397 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/user/.codeoss-cloudworkstations/extensions
+2024-07-17 10:43:25.937 [info] [<unknown>][98559b1e][ManagementConnection] New connection established.
+2024-07-17 10:43:27.336 [info] [<unknown>][9111af8c][ExtensionHostConnection] New connection established.
+2024-07-17 10:43:27.516 [info] [<unknown>][9111af8c][ExtensionHostConnection] <60> Launched Extension Host Process.
+2024-07-17 10:49:34.288 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

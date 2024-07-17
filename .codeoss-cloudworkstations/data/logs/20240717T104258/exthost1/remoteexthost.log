@@ -1,0 +1,23 @@
+2024-07-17 10:43:31.932 [info] Extension host with pid 60 started
+2024-07-17 10:43:31.954 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-7b6c7422/vscode.lock': Lock acquired.
+2024-07-17 10:43:32.143 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-17 10:43:32.348 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-17 10:43:32.490 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-17 10:43:32.491 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-17 10:43:32.904 [info] Eager extensions activated
+2024-07-17 10:43:32.905 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-17 10:43:32.905 [info] ExtensionService#_doActivateExtension google.cloud-workstations, startup: false, activationEvent: 'onStartupFinished'
+2024-07-17 10:43:32.906 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-17 10:43:32.906 [info] ExtensionService#_doActivateExtension google.monospace, startup: false, activationEvent: 'onStartupFinished'
+2024-07-17 10:43:32.906 [info] ExtensionService#_doActivateExtension google.monospace-aida, startup: false, activationEvent: 'onStartupFinished'
+2024-07-17 10:43:36.993 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-17 10:43:59.418 [info] ExtensionService#_doActivateExtension google.nix-language, startup: false, activationEvent: 'onLanguage:nix'
+2024-07-17 10:47:50.981 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-17 10:51:04.218 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:284:19)
+	at onErrorNT (node:internal/child_process:477:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-07-17 10:51:05.220 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:284:19)
+	at onErrorNT (node:internal/child_process:477:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
